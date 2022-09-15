@@ -193,12 +193,15 @@ ul {
   width: 255px;
 }
 
+.work {
+  margin-left: 80px;
+}
+
 .work-step-box {
   display: flex;
   align-items: center;
   justify-content: space-between;
   width: 1045px;
-  margin-left: 80px;
 }
 .work-step-box li {
   width: 285px;
@@ -229,6 +232,7 @@ ul {
   align-items: center;
   height: 120px;
   background: #2C343E;
+  margin-top: 216px;
 }
 
 .footer-nav {
