@@ -1,0 +1,49 @@
+.product {
+  height: 524.55px;
+  margin-top: 136px;
+}
+
+.product-bg-box {
+  opacity: 0.5;
+}
+
+.product-bg-img {
+  margin-left: 83.5px;
+  background: linear-gradient(180deg, rgba(254, 252, 247, 0.0001) 0%, #FEFCF7 100%);
+}
+
+.product-bg-text {
+  position: relative;
+  top: -85px;
+  font-family: "Fraunces";
+  font-weight: 900;
+  font-size: 150px;
+  text-align: center;
+  color: #83888F;
+}
+
+.product-box {
+  position: relative;
+  top: -100px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.product-info {
+  text-align: center;
+  width: 250px;
+  height: 383px;
+}
+
+.product-main-text {
+  margin-top: 71.5px;
+  font-family: "Fraunces";
+  font-weight: 900;
+  font-size: 24px;
+  color: #333D4B;
+}
+
+.product-text {
+  color: #333D4B;
+}/*# sourceMappingURL=product.css.map */

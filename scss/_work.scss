@@ -1,0 +1,34 @@
+.work-step-box {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 1045px;
+    margin-left: 80px;
+
+    li {
+        width: 285px;
+        height: 355px;
+        margin-bottom: 79px;
+
+        h4 {
+            font-family: 'Fraunces';
+            font-weight: 900;
+            font-size: 72px;
+            color: #FDD6BA;
+        }
+
+        .step-main-text {
+            font-family: 'Fraunces';
+            font-weight: 900;
+            font-size: 32px;
+            color: #333D4B;
+            margin-top: 70px;
+            margin-bottom: 42px;
+        }
+
+        p {
+            margin-top: 43px;
+            color: #333D4B;
+        }
+    }
+}

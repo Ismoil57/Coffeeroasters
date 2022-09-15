@@ -1,0 +1,29 @@
+.nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 44px 0;
+
+    .nav-box {
+        display: flex;
+        align-items: center;
+
+        .nav-list + .nav-list {
+            margin-left: 32px;
+        }
+
+        .nav-list {
+
+            .nav-link{  
+                font-family: 'Barlow';
+                font-style: normal;
+                font-weight: 700;
+                font-size: 12px;
+                letter-spacing: 0.923077px;
+                text-decoration: none;
+                color: #83888F;
+                
+            }
+        }
+    }
+}
